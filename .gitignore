@@ -1,0 +1,16 @@
+# Abaikan folder dataset (PENTING!)
+dataset_baru/
+
+# Abaikan file rahasia
+.streamlit/secrets.toml
+
+# Abaikan file sampah python
+__pycache__/
+*.pyc
+
+# Abaikan file model (opsional, biar upload cepat)
+*.keras
+*.h5
+
+# Abaikan HANYA gambar sementara (jangan *.jpg semua)
+temp_img.jpg

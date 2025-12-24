@@ -1,0 +1,15 @@
+[theme]
+# Warna Utama (Tombol, Slider, Progress Bar) - Biru Laut Kuat
+primaryColor = "#0288D1"
+
+# Warna Background Utama - Biru Laut Sangat Muda (Biar tulisan terbaca)
+backgroundColor = "#E1F5FE"
+
+# Warna Sidebar (Menu Kiri) - Biru Sedikit Lebih Gelap
+secondaryBackgroundColor = "#B3E5FC"
+
+# Warna Teks - Hitam/Biru Gelap (Kontras)
+textColor = "#01579B"
+
+# Font standar yang rapi
+font = "sans serif"
